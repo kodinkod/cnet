@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{2B01AE7B-14B1-45DF-A63B-DA9A72D24D13}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mobile/Program.cs">
+    <Files>
+      <File FileName="mobile/Program.cs" Line="178" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mobile" expanded="True">
+            <Node name="mobile" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.mobile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,15 @@
+/Applications/programming/C-net/task_18_03/task_18_03/bin/Debug/net7.0/task_18_03
+/Applications/programming/C-net/task_18_03/task_18_03/bin/Debug/net7.0/task_18_03.deps.json
+/Applications/programming/C-net/task_18_03/task_18_03/bin/Debug/net7.0/task_18_03.runtimeconfig.json
+/Applications/programming/C-net/task_18_03/task_18_03/bin/Debug/net7.0/task_18_03.dll
+/Applications/programming/C-net/task_18_03/task_18_03/bin/Debug/net7.0/task_18_03.pdb
+/Applications/programming/C-net/task_18_03/task_18_03/obj/Debug/net7.0/task_18_03.csproj.AssemblyReference.cache
+/Applications/programming/C-net/task_18_03/task_18_03/obj/Debug/net7.0/task_18_03.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/programming/C-net/task_18_03/task_18_03/obj/Debug/net7.0/task_18_03.AssemblyInfoInputs.cache
+/Applications/programming/C-net/task_18_03/task_18_03/obj/Debug/net7.0/task_18_03.AssemblyInfo.cs
+/Applications/programming/C-net/task_18_03/task_18_03/obj/Debug/net7.0/task_18_03.csproj.CoreCompileInputs.cache
+/Applications/programming/C-net/task_18_03/task_18_03/obj/Debug/net7.0/task_18_03.dll
+/Applications/programming/C-net/task_18_03/task_18_03/obj/Debug/net7.0/refint/task_18_03.dll
+/Applications/programming/C-net/task_18_03/task_18_03/obj/Debug/net7.0/task_18_03.pdb
+/Applications/programming/C-net/task_18_03/task_18_03/obj/Debug/net7.0/task_18_03.genruntimeconfig.cache
+/Applications/programming/C-net/task_18_03/task_18_03/obj/Debug/net7.0/ref/task_18_03.dll

@@ -1,0 +1,15 @@
+/Applications/programming/C-net/restouran/restouran/bin/Debug/net7.0/restouran
+/Applications/programming/C-net/restouran/restouran/bin/Debug/net7.0/restouran.deps.json
+/Applications/programming/C-net/restouran/restouran/bin/Debug/net7.0/restouran.runtimeconfig.json
+/Applications/programming/C-net/restouran/restouran/bin/Debug/net7.0/restouran.dll
+/Applications/programming/C-net/restouran/restouran/bin/Debug/net7.0/restouran.pdb
+/Applications/programming/C-net/restouran/restouran/obj/Debug/net7.0/restouran.csproj.AssemblyReference.cache
+/Applications/programming/C-net/restouran/restouran/obj/Debug/net7.0/restouran.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/programming/C-net/restouran/restouran/obj/Debug/net7.0/restouran.AssemblyInfoInputs.cache
+/Applications/programming/C-net/restouran/restouran/obj/Debug/net7.0/restouran.AssemblyInfo.cs
+/Applications/programming/C-net/restouran/restouran/obj/Debug/net7.0/restouran.csproj.CoreCompileInputs.cache
+/Applications/programming/C-net/restouran/restouran/obj/Debug/net7.0/restouran.dll
+/Applications/programming/C-net/restouran/restouran/obj/Debug/net7.0/refint/restouran.dll
+/Applications/programming/C-net/restouran/restouran/obj/Debug/net7.0/restouran.pdb
+/Applications/programming/C-net/restouran/restouran/obj/Debug/net7.0/restouran.genruntimeconfig.cache
+/Applications/programming/C-net/restouran/restouran/obj/Debug/net7.0/ref/restouran.dll

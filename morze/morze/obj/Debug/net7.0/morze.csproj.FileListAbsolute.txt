@@ -1,0 +1,15 @@
+/Applications/programming/C-net/morze/morze/bin/Debug/net7.0/morze
+/Applications/programming/C-net/morze/morze/bin/Debug/net7.0/morze.deps.json
+/Applications/programming/C-net/morze/morze/bin/Debug/net7.0/morze.runtimeconfig.json
+/Applications/programming/C-net/morze/morze/bin/Debug/net7.0/morze.dll
+/Applications/programming/C-net/morze/morze/bin/Debug/net7.0/morze.pdb
+/Applications/programming/C-net/morze/morze/obj/Debug/net7.0/morze.csproj.AssemblyReference.cache
+/Applications/programming/C-net/morze/morze/obj/Debug/net7.0/morze.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/programming/C-net/morze/morze/obj/Debug/net7.0/morze.AssemblyInfoInputs.cache
+/Applications/programming/C-net/morze/morze/obj/Debug/net7.0/morze.AssemblyInfo.cs
+/Applications/programming/C-net/morze/morze/obj/Debug/net7.0/morze.csproj.CoreCompileInputs.cache
+/Applications/programming/C-net/morze/morze/obj/Debug/net7.0/morze.dll
+/Applications/programming/C-net/morze/morze/obj/Debug/net7.0/refint/morze.dll
+/Applications/programming/C-net/morze/morze/obj/Debug/net7.0/morze.pdb
+/Applications/programming/C-net/morze/morze/obj/Debug/net7.0/morze.genruntimeconfig.cache
+/Applications/programming/C-net/morze/morze/obj/Debug/net7.0/ref/morze.dll

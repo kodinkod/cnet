@@ -1,0 +1,15 @@
+/Applications/programming/C-net/mobile/mobile/bin/Debug/net7.0/mobile
+/Applications/programming/C-net/mobile/mobile/bin/Debug/net7.0/mobile.deps.json
+/Applications/programming/C-net/mobile/mobile/bin/Debug/net7.0/mobile.runtimeconfig.json
+/Applications/programming/C-net/mobile/mobile/bin/Debug/net7.0/mobile.dll
+/Applications/programming/C-net/mobile/mobile/bin/Debug/net7.0/mobile.pdb
+/Applications/programming/C-net/mobile/mobile/obj/Debug/net7.0/mobile.csproj.AssemblyReference.cache
+/Applications/programming/C-net/mobile/mobile/obj/Debug/net7.0/mobile.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/programming/C-net/mobile/mobile/obj/Debug/net7.0/mobile.AssemblyInfoInputs.cache
+/Applications/programming/C-net/mobile/mobile/obj/Debug/net7.0/mobile.AssemblyInfo.cs
+/Applications/programming/C-net/mobile/mobile/obj/Debug/net7.0/mobile.csproj.CoreCompileInputs.cache
+/Applications/programming/C-net/mobile/mobile/obj/Debug/net7.0/mobile.dll
+/Applications/programming/C-net/mobile/mobile/obj/Debug/net7.0/refint/mobile.dll
+/Applications/programming/C-net/mobile/mobile/obj/Debug/net7.0/mobile.pdb
+/Applications/programming/C-net/mobile/mobile/obj/Debug/net7.0/mobile.genruntimeconfig.cache
+/Applications/programming/C-net/mobile/mobile/obj/Debug/net7.0/ref/mobile.dll
